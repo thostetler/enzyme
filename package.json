@@ -60,6 +60,9 @@
     "object.assign": "^4.0.4",
     "object.entries": "^1.0.3",
     "object.values": "^1.0.3",
+    "react": "^15.6.2",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^15.6.2",
     "uuid": "^2.0.3"
   },
   "devDependencies": {
